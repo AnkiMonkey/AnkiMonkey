@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @AnkiMonkey
 - 👀 I’m interested in programming apps for med school using Anki + Python app deployed on web
 - App is to be used to randomize multiple-choice-questions
-- 🌱 I’m currently learning Python, html, css
+- file exporters (merge csv, pdf to txt) 
+- decluttering apps (when alphabetical order required) 
+- 🌱 I’m currently learning Python
+
 - 📫 How to reach me timon.nemeth@gmail.com
 
 <!---
